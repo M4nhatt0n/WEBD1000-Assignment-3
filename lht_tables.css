@@ -61,5 +61,21 @@
    =============================================
 */
 @media screen and (min-width: 641px) {
+   table{
+      background-image: url(lht_photo1.png);
+      background-position: right bottom;
+      background-repeat: no-repeat;
+      background-size: 40%;
+      border-style: double;
+      border-width: 6px;
+      border-color: rgb(154, 64, 3);
+      border-collapse: collapse;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      table-layout: fixed;
+      width: 85%;
+   }
    
 }
