@@ -77,5 +77,15 @@
       table-layout: fixed;
       width: 85%;
    }
-   
+   th,td{
+      border-style: solid;
+      border-width: 1px;
+      border-color: gray;
+      font-size: 0.85em;
+      font-weight: normal;
+      padding: 5px;
+      vertical-align: top;
+      width: 14.28%;
+      word-wrap: break-word;
+   }
 }
