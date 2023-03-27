@@ -17,7 +17,9 @@
    Mobile Styles: 0px to 640px 
    ===============================
 */
-
+@media screen and (max-width: 640px) {
+   
+ }
 
 
 
@@ -25,3 +27,6 @@
    Tablet and Desktop Styles: greater than 640px
    =============================================
 */
+@media screen and (min-width: 641px) {
+   
+}
