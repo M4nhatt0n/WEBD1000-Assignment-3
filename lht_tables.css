@@ -103,4 +103,8 @@
       font-size: 1.2em;
       letter-spacing: 3px;
    }
+   thead th{
+      background-color: rgb(154, 64, 3);
+      color: white;
+   }
 }
